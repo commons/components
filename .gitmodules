@@ -1,0 +1,3 @@
+[submodule "fixed-footer"]
+	path = fixed-footer
+	url = git://gist.github.com/6338658.git
