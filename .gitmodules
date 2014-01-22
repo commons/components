@@ -4,3 +4,6 @@
 [submodule "toggle-button"]
 	path = toggle-button
 	url = https://gist.github.com/68c5424a5972015c71e0.git
+[submodule "loading-overlay"]
+	path = loading-overlay
+	url = git://gist.github.com/8553152.git
