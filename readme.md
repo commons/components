@@ -23,7 +23,7 @@ Included here as submodules are the following gists:
 
 * [Fixed footer](https://gist.github.com/ryndel/6338658) ( [example](http://rawgithub.com/ryndel/6338658/raw/fixed-footer.html) )
 * [Toggle button](https://gist.github.com/ryndel/68c5424a5972015c71e0)
-* [Loading overlay](https://gist.github.com/tracend/8553152] ( [example](http://rawgithub.com/tracend/8553152/raw/example.html) )
+* [Loading overlay](https://gist.github.com/tracend/8553152) ( [example](http://rawgithub.com/tracend/8553152/raw/example.html) )
 
 
 ## Credits
