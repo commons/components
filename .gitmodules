@@ -7,3 +7,6 @@
 [submodule "loading-overlay"]
 	path = loading-overlay
 	url = git://gist.github.com/8553152.git
+[submodule "float-label"]
+	path = float-label
+	url = git://gist.github.com/11206510.git
