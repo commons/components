@@ -10,3 +10,6 @@
 [submodule "float-label"]
 	path = float-label
 	url = git://gist.github.com/11206510.git
+[submodule "terminal-text"]
+	path = terminal-text
+	url = git://gist.github.com/88c918a3a991510e49c1.git
