@@ -13,3 +13,6 @@
 [submodule "terminal-text"]
 	path = terminal-text
 	url = git://gist.github.com/88c918a3a991510e49c1.git
+[submodule "particles"]
+	path = particles
+	url = git://gist.github.com/f094808d46724f6010df.git
