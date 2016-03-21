@@ -16,3 +16,6 @@
 [submodule "particles"]
 	path = particles
 	url = git://gist.github.com/f094808d46724f6010df.git
+[submodule "parallax"]
+	path = parallax
+	url = git://gist.github.com/e31af5624886a0c85fa3.git
