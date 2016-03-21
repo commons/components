@@ -26,7 +26,7 @@ Included here as submodules are the following gists:
 * [Toggle button](https://gist.github.com/ryndel/68c5424a5972015c71e0)
 * [Loading overlay](https://gist.github.com/tracend/8553152) ( [example](http://rawgit.com/tracend/8553152/raw/example.html) )
 * [Terminal Text](https://gist.github.com/tracend/88c918a3a991510e49c1) ( [example](https://rawgit.com/tracend/88c918a3a991510e49c1/raw/example.html) )
-
+* [Parallax](https://gist.github.com/tracend/e31af5624886a0c85fa3) ( [example](http://rawgit.com/tracend/e31af5624886a0c85fa3/raw/example.html) )
 
 ## Credits
 
