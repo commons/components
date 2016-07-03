@@ -19,3 +19,6 @@
 [submodule "parallax"]
 	path = parallax
 	url = git://gist.github.com/e31af5624886a0c85fa3.git
+[submodule "isOnScreen"]
+	path = isOnScreen
+	url = git://github.com/moagrius/isOnScreen.git
